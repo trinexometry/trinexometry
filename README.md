@@ -13,4 +13,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trinexometry&show_icons=true&theme=dark&locale=en" alt="trinexometry" /></p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Trinexometry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<p>![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trinexometry)</p>
