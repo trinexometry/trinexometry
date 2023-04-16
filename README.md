@@ -12,7 +12,6 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
    <h2><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trinexometry&show_icons=true&theme=dark&locale=en" alt="trinexometry" /></p></h2>
-   <a href=""><strong><p>)</p></strong></a>
 </div>
 
 
