@@ -12,7 +12,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
    <h2><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trinexometry&show_icons=true&theme=dark&locale=en" alt="trinexometry" /></p></h2>
-   <a href=""><strong>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trinexometry&theme=dark)](https://git.io/streak-stats)»</strong></a>
+   <a href=""><strong><p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trinexometry&theme=dark)](https://git.io/streak-stats)</p></strong></a>
 </div>
 
 
